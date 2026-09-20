@@ -1,0 +1,5 @@
+images/
+.venv/
+*.npz
+__pycache__/
+models/
