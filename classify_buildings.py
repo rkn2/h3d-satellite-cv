@@ -34,7 +34,6 @@ DEVICE = "mps" if torch.backends.mps.is_available() else "cpu"
 
 NOFAL_TABLE = {
     6:  {"stories": 1, "walls": "brick",               "roof": "gable",   "size": "large"},
-    7:  {"stories": 2, "walls": "vinyl_aluminum_siding","roof": "gable",   "size": "medium"},
     8:  {"stories": 3, "walls": "brick",               "roof": "gable",   "size": "large"},
     9:  {"stories": 1, "walls": "brick",               "roof": "flat",    "size": "very_large"},
     11: {"stories": 1, "walls": "brick",               "roof": "gable",   "size": "small"},
@@ -43,7 +42,7 @@ NOFAL_TABLE = {
     14: {"stories": 2, "walls": "brick",               "roof": "flat",    "size": "large"},
     17: {"stories": 1, "walls": "wood_siding",         "roof": "gable",   "size": "small"},
     18: {"stories": 1, "walls": "brick",               "roof": "flat",    "size": "large"},
-    19: {"stories": 1, "walls": "brick",               "roof": "gable",   "size": "medium"},
+    19: {"stories": 2, "walls": "brick",               "roof": "gable",   "size": "medium"},
 }
 
 
