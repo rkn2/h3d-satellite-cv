@@ -245,7 +245,6 @@ undergrad,38.640814,-90.328025,"7425 Buckingham Dr, Saint Louis, MO 63105",19.0,
 undergrad,38.640811,-90.327514,"7415 Buckingham Dr, Saint Louis, MO 63105",19.0,7,19.0,t19,2.0,2,0.98,complex,complex_family,0.723,masonry_un,masonry,1.0,"brick, stone",undamaged,,,none,0.595,0.0,1935.0,residential,171,isolated,recessed,7.6,s,Alex,1.0
 undergrad,38.640822,-90.327264,"7407 Buckingham Dr, Saint Louis, MO 63105",19.0,7,19.0,t19,2.0,2,0.94,complex,complex_family,0.656,masonry_un,masonry,0.99,"brick, stucco",undamaged,,,moderate,0.46,0.0,1928.0,residential,226,isolated,recessed,7.0,s,Alex,1.0
 undergrad,38.779064,-90.000108,"1 Country Club Ln, Edwardsville, IL 62025",19.0,7,19.0,t19,2.0,2,0.88,complex,complex_family,0.696,masonry_un,masonry,0.915,stucco,unknown,,,none,0.66,,1920.0,residential,357,isolated,recessed,6.2,e,Alex,0.0
-undergrad,38.778292,-90.000886,"2 Country Club Ln, Edwardsville, IL 62025",19.0,7,19.0,t19,2.0,2,0.859,complex,complex_family,0.765,masonry_un,masonry,0.935,"brick, stucco, wood",unknown,,,none,0.8,,1955.0,residential,501,isolated,recessed,7.9,e,Alex,0.0
 undergrad,38.640394,-90.329508,"7460 Buckingham Dr, Saint Louis, MO 63105",19.0,7,19.0,t19,2.0,2,0.955,gable-hip_combo,gable_family,0.828,masonry_un,masonry,0.995,"brick, stucco",undamaged,,,none,0.575,0.0,1938.0,residential,163,isolated,recessed,6.9,s,Bri,0.0
 undergrad,38.640406,-90.328958,"7442 Buckingham Dr, Saint Louis, MO 63105",19.0,7,19.0,t19,2.0,2,0.975,gable-hip_combo,gable_family,0.909,masonry_un,masonry,0.99,brick,undamaged,,,none,0.515,0.0,1928.0,residential,167,isolated,recessed,8.0,s,Bri,1.0
 undergrad,38.640414,-90.328689,"7438 Buckingham Dr, Saint Louis, MO 63105",19.0,7,19.0,t19,2.0,2,0.985,gable,gable_family,0.817,masonry_un,masonry,0.99,"brick, stone, stucco, wood",undamaged,,,none,0.665,0.0,1931.0,residential,142,isolated,recessed,6.4,s,Bri,1.0
@@ -551,7 +550,6 @@ undergrad,38.648522,-90.288083,"5744 Pershing Ave, St. Louis, MO 63112",19.0,7,1
 undergrad,38.649553,-90.294106,"5955 Pershing Ave, St. Louis, MO 63112",19.0,7,19.0,t19,2.0,2,0.73,,gable_family,0.57,,masonry,0.95,,,,,none,0.465,,1913.0,residential,,,,,,,1.0
 undergrad,38.649525,-90.294,"5953 Pershing Ave, St. Louis, MO 63112",19.0,7,19.0,t19,2.0,2,0.785,,gable_family,0.534,,masonry,0.97,,,,,none,0.55,,1920.0,residential,,,,,,,1.0
 undergrad,38.649514,-90.293894,"5949 Pershing Ave, St. Louis, MO 63112",19.0,7,19.0,t19,2.0,2,0.785,,gable_family,0.648,,masonry,0.915,,,,,none,0.565,,1920.0,residential,,,,,,,1.0
-undergrad,38.732219,-90.095617,"4011 Vesci Ave, Granite City, IL 62040",19.0,7,19.0,t19,1.0,2,0.533,,gable_family,0.467,,masonry,0.855,,,,,none,0.54,,1960.0,residential,,,,,,,
 steer,38.6562285614,-90.2624403562,1116 N Kingshighway Blvd St. Louis MO 63113 US,,7,19.0,t19,,2,0.547,,gable_family,0.344,,masonry,0.94,,,Substantial to Heavy,,moderate,0.48,2.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6485176856,-90.2819915904,5585 Pershing Ave St. Louis MO 63112 US,,7,19.0,t19,,2,0.5,,gable_family,0.295,,masonry,0.915,,,Destruction,,moderate,0.51,4.0,,Commercial,,,,,,David Roueche,2.0
 steer,38.6512997515,-90.2870125115,5759 McPherson Ave St. Louis MO 63112 US,,7,19.0,t19,,2,0.605,,gable_family,0.431,,masonry,0.924,,,Negligible to Slight,,none,0.675,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
@@ -634,7 +632,6 @@ steer,38.6480404991,-90.282217704,5582 Pershing Ave St. Louis MO 63112 US,,7,19.
 steer,38.6480496105,-90.2824291966,5590 Pershing Ave St. Louis MO 63112 US,,7,19.0,t19,,2,0.47,,complex_family,0.335,,masonry,0.935,,,Destruction,,moderate,0.41,4.0,,Residential-Multi-family,,,,,,David Roueche,2.0
 steer,38.6490858061,-90.279730891,5542 Waterman Blvd St. Louis MO 63112 US,,7,19.0,t19,,2,0.559,,gable_family,0.368,,masonry,0.975,,,,,moderate,0.415,,,,,,,,,Wesam,2.0
 steer,38.6482116221,-90.2827978303,5596 Pershing Avenue St. Louis Missouri 63112 United States,,7,19.0,t19,,2,0.617,,gable_family,0.409,,masonry,0.965,,,,,moderate,0.56,,,,,,,,,Thesha A,2.0
-steer,38.6567146917,-90.2599418275,,,7,19.0,t19,,2,0.616,,gable_family,0.408,,masonry,0.94,,,Substantial to Heavy,,moderate,0.465,2.0,,School,,,,,,,2.0
 steer,38.6696815182,-90.2405961384,3525 N Taylor Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.637,,gable_family,0.526,,masonry,0.875,,,Negligible to Slight,,none,0.46,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6697457604,-90.2405516978,3527 N Taylor Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.55,,gable_family,0.497,,masonry,0.89,,,Negligible to Slight,,none,0.675,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6698748023,-90.2404558677,3533 N Taylor Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.51,,gable_family,0.489,,masonry,0.945,,,Substantial to Heavy,,moderate,0.415,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -702,8 +699,6 @@ steer,38.6529584785,-90.2585882791,,,7,19.0,t19,,2,0.77,,gable_family,0.584,,mas
 steer,38.652732254,-90.2576145101,,,7,19.0,t19,,2,0.558,,gable_family,0.468,,masonry,0.865,,,Negligible to Slight,,none,0.515,0.0,,Residential-Multi-family,,,,,,Yi Zhao,1.0
 steer,38.6526552804,-90.2586535191,,,7,19.0,t19,,2,0.522,,gable_family,0.431,,masonry,0.835,,,Moderate,,none,0.58,1.0,,Residential-Multi-family,,,,,,Yi Zhao,1.0
 steer,38.6705696365,-90.2435432984,3512 Cora Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.534,,gable_family,0.478,,masonry,0.775,,,Moderate,,moderate,0.505,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
-steer,38.6524450944,-90.257621759,,,7,19.0,t19,,2,0.783,,gable_family,0.493,,masonry,0.98,,,Moderate,,none,0.46,1.0,,Residential-Multi-family,,,,,,Yi Zhao,1.0
-steer,38.6522632181,-90.2576809583,,,7,19.0,t19,,2,0.575,,gable_family,0.404,,masonry,0.945,,,Negligible to Slight,,none,0.55,0.0,,Residential-Multi-family,,,,,,Yi Zhao,1.0
 steer,38.6673088575,-90.2345737899,4226 W Lexington Ave åœ£è·¯æ˜“æ–¯ MO 63115 US,,7,19.0,t19,,2,0.588,,gable_family,0.477,,masonry,0.915,,,Moderate,,none,0.6,1.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6673518884,-90.2356272802,,,7,19.0,t19,,2,0.432,,gable_family,0.384,,masonry,0.925,,,Very Heavy,,moderate,0.52,3.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6684989986,-90.2372454603,3536 N Newstead Ave åœ£è·¯æ˜“æ–¯ MO 63115 US,,7,19.0,t19,,2,0.48,,gable_family,0.359,,masonry,0.915,,,Destruction,,moderate,0.48,4.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -874,7 +869,6 @@ steer,38.6606991247,-90.2518908537,1700 Dick Gregory Pl St. Louis MO 63113 US,,7
 steer,38.6637212774,-90.2502954099,4660 Saint Ferdinand Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.584,,gable_family,0.532,,masonry,0.84,,,Moderate,,moderate,0.425,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6691924789,-90.2409556555,3505 N Taylor Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.713,,gable_family,0.537,,masonry,0.89,,,Negligible to Slight,,none,0.48,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6604916299,-90.2520454101,1524 Dick Gregory Pl St. Louis MO 63113 US,,7,19.0,t19,,2,0.58,,gable_family,0.398,,masonry,0.935,,,Negligible to Slight,,none,0.585,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6649152531,-90.2589755493,4956 Cote Brilliante Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.634,,hip_family,0.375,,masonry,0.865,,,Negligible to Slight,,moderate,0.48,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6669467547,-90.2444940371,4548 Labadie Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.65,,gable_family,0.513,,masonry,0.845,,,Moderate,,none,0.48,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6698141256,-90.2405033683,3531 N Taylor Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.618,,gable_family,0.585,,masonry,0.905,,,Moderate,,none,0.525,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6700220786,-90.2408424022,4514 Lexington Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.595,,gable_family,0.535,,masonry,0.81,,,Moderate,,moderate,0.455,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -935,11 +929,9 @@ steer,38.6672747532,-90.2497182131,4729 Maffitt Ave St. Louis MO 63113 US,,7,19.
 steer,38.6679646944,-90.2393823106,4434 Ashland Ave åœ£è·¯æ˜“æ–¯ MO 63115 US,,7,19.0,t19,,2,0.49,,gable_family,0.368,,masonry,0.768,,,Very Heavy,,moderate,0.42,3.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.664733419,-90.2385115162,3004 Vine Grove Ave åœ£è·¯æ˜“æ–¯ MO 63115 US,,7,19.0,t19,,2,0.475,,gable_family,0.423,,masonry,0.87,,,Negligible to Slight,,none,0.57,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6622799023,-90.2552977586,4772 Cote Brilliante Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.603,,gable_family,0.453,,masonry,0.735,,,Negligible to Slight,,none,0.485,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,3.0
-steer,38.6676132864,-90.2484973462,4706 St Louis Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.533,,gable_family,0.414,,masonry,0.945,,,Substantial to Heavy,,moderate,0.395,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6575880359,-90.2577915106,,,7,19.0,t19,,2,0.633,,gable_family,0.454,,masonry,0.91,,,Moderate,,none,0.45,1.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6645725045,-90.2381435668,4327 Labadie Ave åœ£è·¯æ˜“æ–¯ MO 63115 US,,7,19.0,t19,,2,0.55,,gable_family,0.547,,masonry,0.795,,,Very Heavy,,moderate,0.43,3.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6579137791,-90.2567181379,1225 Walton Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.53,,gable_family,0.457,,masonry,0.875,,,Negligible to Slight,,moderate,0.41,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
-steer,38.6674336129,-90.2488895816,2823 Marcus Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.448,,gable_family,0.446,,masonry,0.88,,,Negligible to Slight,,none,0.435,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6686607317,-90.2413601963,3221 N Taylor Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.533,,gable_family,0.503,,masonry,0.865,,,Negligible to Slight,,none,0.615,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6672128624,-90.2441645042,4549 Labadie Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.538,,gable_family,0.482,,masonry,0.84,,,Negligible to Slight,,none,0.485,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6624964742,-90.251058901,1905 Dick Gregory Pl St. Louis MO 63113 US,,7,19.0,t19,,2,0.565,,gable_family,0.393,,masonry,0.85,,,Very Heavy,,none,0.6,3.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
@@ -1156,7 +1148,6 @@ steer,38.6702369836,-90.2433696148,4617 Ashland Ave St. Louis MO 63115 US,,7,19.
 steer,38.6531408773,-90.2614750508,,,7,19.0,t19,,2,0.69,,gable_family,0.596,,masonry,0.885,,,Moderate,,none,0.46,1.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6680452973,-90.2379618326,,,7,19.0,t19,,2,0.66,,gable_family,0.364,,masonry,0.89,,,Negligible to Slight,,none,0.545,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6683387018,-90.2410549375,3210 N Taylor Ave åœ£è·¯æ˜“æ–¯ MO 63115 US,,7,19.0,t19,,2,0.46,,gable_family,0.494,,masonry,0.87,,,Negligible to Slight,,none,0.645,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6526352888,-90.2576833746,,,7,19.0,t19,,2,0.595,,gable_family,0.489,,masonry,0.92,,,Negligible to Slight,,moderate,0.525,0.0,,Residential-Multi-family,,,,,,Yi Zhao,1.0
 steer,38.663748115,-90.2549125082,4816 Leduc St åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.591,,gable_family,0.453,,masonry,0.895,,,Moderate,,none,0.525,1.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6683467641,-90.2440644691,4603 Greer Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.554,,gable_family,0.452,,masonry,0.92,,,Destruction,,moderate,0.5,4.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6604185599,-90.2587019215,,,7,19.0,t19,,2,0.51,,gable_family,0.419,,masonry,0.8,,,Substantial to Heavy,,moderate,0.525,2.0,,"Commercial,Residential-Single Family,School",,,,,,,3.0
@@ -1218,7 +1209,6 @@ steer,38.6578337314,-90.256730263,,,7,19.0,t19,,2,0.535,,gable_family,0.533,,mas
 steer,38.6705340387,-90.240746254,,,6,6.0,t6,,1,0.453,,gable_family,0.453,,masonry,0.825,,,Substantial to Heavy,,moderate,0.485,2.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6599024269,-90.2549285396,,,7,19.0,t19,,2,0.481,,gable_family,0.489,,masonry,0.905,,,Moderate,,none,0.48,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6674841019,-90.2447613877,4603 Labadie Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.453,,gable_family,0.446,,masonry,0.79,,,Moderate,,moderate,0.49,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6569497125,-90.2590871279,,,7,19.0,t19,,2,0.485,,gable_family,0.378,,masonry,0.815,,,Negligible to Slight,,moderate,0.435,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.659497432,-90.253809859,,,6,6.0,t6,,1,0.42,,gable_family,0.418,,masonry,0.775,,,Destruction,,moderate,0.49,4.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6623560345,-90.251753028,4648 Leduc St St. Louis MO 63113 US,,7,19.0,t19,,2,0.443,,gable_family,0.448,,masonry,0.845,,,Negligible to Slight,,moderate,0.44,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6577524459,-90.25675613,,,7,19.0,t19,,2,0.53,,gable_family,0.421,,masonry,0.815,,,Negligible to Slight,,moderate,0.48,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
@@ -1290,7 +1280,6 @@ steer,38.6544549966,-90.2573222609,,,7,19.0,t19,,2,0.568,,gable_family,0.511,,ma
 steer,38.6609969612,-90.255002393,4749 Dr Martin Luther King Dr åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.508,,gable_family,0.369,,masonry,0.71,,,Destruction,,moderate,0.475,4.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6666749527,-90.2353423636,4237 W Ashland Ave åœ£è·¯æ˜“æ–¯ MO 63115 US,,7,19.0,t19,,2,0.523,,gable_family,0.553,,masonry,0.905,,,Negligible to Slight,,none,0.5,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6594323541,-90.2498338843,4568 Aldine Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.605,,gable_family,0.429,,masonry,0.95,,,Destruction,,none,0.445,4.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.668059335,-90.2487964795,4721 St Louis Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.501,,gable_family,0.369,,masonry,0.89,,,Moderate,,moderate,0.48,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6585310478,-90.2581122481,,,7,19.0,t19,,2,0.542,,gable_family,0.522,,masonry,0.86,,,Negligible to Slight,,none,0.49,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6680036058,-90.2487081455,4715 St Louis Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.641,,gable_family,0.408,,masonry,0.92,,,Moderate,,none,0.46,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6566191324,-90.252758521,4602 Vernon Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.543,,gable_family,0.324,,masonry,0.93,,,Substantial to Heavy,,moderate,0.475,2.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -1314,7 +1303,6 @@ steer,38.6626627971,-90.2562681962,4830 Cote Brilliante Ave åœ£è·¯æ˜“�
 steer,38.6523511791,-90.2586861394,,,7,19.0,t19,,2,0.685,,gable_family,0.438,,masonry,0.955,,,Negligible to Slight,,none,0.485,0.0,,Residential-Multi-family,,,,,,Yi Zhao,1.0
 steer,38.6618588073,-90.2502040507,1825 Cora Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.717,,gable_family,0.428,,masonry,0.88,,,Negligible to Slight,,moderate,0.44,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6668344875,-90.2470881051,4648 St Louis Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.595,,gable_family,0.468,,masonry,0.825,,,Moderate,,moderate,0.535,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6529854098,-90.2575299396,,,7,19.0,t19,,2,0.635,,gable_family,0.417,,masonry,0.87,,,Negligible to Slight,,none,0.5,0.0,,Residential-Multi-family,,,,,,Yi Zhao,1.0
 steer,38.661711422,-90.2503455292,1821 Cora Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.691,,gable_family,0.482,,masonry,0.95,,,Negligible to Slight,,none,0.495,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.66622874,-90.2473243346,4629 Maffitt Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.527,,gable_family,0.508,,masonry,0.87,,,Moderate,,moderate,0.48,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6648402128,-90.258822619,4950 Cote Brilliante Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.825,,gable_family,0.512,,masonry,0.95,,,Negligible to Slight,,none,0.6,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
@@ -1396,7 +1384,6 @@ steer,38.6590592276,-90.2546637158,,,7,19.0,t19,,2,0.622,,gable_family,0.457,,ma
 steer,38.6651226022,-90.2487395516,4640 Kennerly Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.495,,gable_family,0.522,,masonry,0.775,,,Very Heavy,,moderate,0.455,3.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6546680817,-90.2562253074,4734 Lewis Pl åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.745,,gable_family,0.502,,masonry,0.913,,,Negligible to Slight,,none,0.51,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6628121739,-90.2663360993,,,7,19.0,t19,,2,0.496,,gable_family,0.456,,masonry,0.875,,,Substantial to Heavy,,moderate,0.47,2.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6592487542,-90.2586384652,,,7,19.0,t19,,2,0.577,,gable_family,0.29,,masonry,0.87,,,Negligible to Slight,,none,0.43,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6684172826,-90.2391807586,4439 Ashland Ave åœ£è·¯æ˜“æ–¯ MO 63115 US,,7,19.0,t19,,2,0.48,,gable_family,0.453,,masonry,0.88,,,Very Heavy,,none,0.475,3.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6591641995,-90.2554267885,,,7,19.0,t19,,2,0.435,,gable_family,0.388,,masonry,0.775,,,Moderate,,none,0.44,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6548633164,-90.2588215746,,,7,19.0,t19,,2,0.759,,gable_family,0.545,,masonry,0.895,,,Negligible to Slight,,none,0.6,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
@@ -1429,7 +1416,6 @@ steer,38.6543966326,-90.2598735907,,,7,19.0,t19,,2,0.65,,complex_family,0.351,,m
 steer,38.655803186,-90.2586781143,,,7,19.0,t19,,2,0.705,,gable_family,0.403,,masonry,0.935,,,Substantial to Heavy,,none,0.415,2.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.668270576,-90.2378530725,,,7,19.0,t19,,2,0.5,,gable_family,0.407,,masonry,0.79,,,Negligible to Slight,,none,0.47,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6618545957,-90.2623880065,,,7,19.0,t19,,2,0.587,,gable_family,0.433,,masonry,0.905,,,Negligible to Slight,,moderate,0.43,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6676806651,-90.2377688632,,,7,19.0,t19,,2,0.489,,gable_family,0.379,,masonry,0.84,,,Negligible to Slight,,moderate,0.45,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6542191323,-90.2564385942,4739 McMillan Ave åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.455,,gable_family,0.423,,masonry,0.755,,,Substantial to Heavy,,moderate,0.46,2.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6558673672,-90.2589710461,,,7,19.0,t19,,2,0.681,,gable_family,0.481,,masonry,0.96,,,Moderate,,none,0.555,1.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6620430777,-90.2631283103,,,7,19.0,t19,,2,0.564,,gable_family,0.467,,masonry,0.88,,,Negligible to Slight,,none,0.41,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
@@ -1459,7 +1445,6 @@ steer,38.6542441556,-90.2529039938,22 Lewis Pl åœ£è·¯æ˜“æ–¯ MO 631
 steer,38.6681406155,-90.2356804096,,,7,19.0,t19,,2,0.55,,gable_family,0.409,,masonry,0.875,,,Substantial to Heavy,,moderate,0.475,2.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6557438318,-90.2554953631,4718 Newberry Terr åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.643,,gable_family,0.492,,masonry,0.955,,,Substantial to Heavy,,moderate,0.465,2.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.653977877,-90.2542976571,4611 McMillan Ave åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.721,,gable_family,0.48,,masonry,0.955,,,Negligible to Slight,,none,0.53,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
-steer,38.6623384253,-90.2639563173,,,7,19.0,t19,,2,0.567,,gable_family,0.363,,masonry,0.91,,,Negligible to Slight,,moderate,0.485,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6746132094,-90.2336765176,,,7,19.0,t19,,2,0.423,,gable_family,0.488,,masonry,0.925,,,Moderate,,none,0.415,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6591414914,-90.2482386897,4525 Aldine Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.639,,gable_family,0.499,,masonry,0.925,,,Substantial to Heavy,,moderate,0.43,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.660308246,-90.2459935315,1912 N Taylor Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.585,,gable_family,0.402,,masonry,0.96,,,Negligible to Slight,,none,0.525,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -1469,7 +1454,6 @@ steer,38.6557124141,-90.2550128343,4704 Newberry Terr åœ£è·¯æ˜“æ–¯
 steer,38.6741483462,-90.2349744101,,,7,19.0,t19,,2,0.504,,gable_family,0.448,,masonry,0.74,,,Destruction,,moderate,0.545,4.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6621718883,-90.2697384609,,,7,19.0,t19,,2,0.738,,gable_family,0.492,,masonry,0.99,,,Negligible to Slight,,none,0.595,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6545757541,-90.2547481486,54 Lewis Pl åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.699,,gable_family,0.576,,masonry,0.915,,,Negligible to Slight,,none,0.64,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
-steer,38.6520397037,-90.259414234,,,7,19.0,t19,,2,0.605,,gable_family,0.471,,masonry,0.98,,,Negligible to Slight,,none,0.435,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6630188518,-90.2693026274,,,7,19.0,t19,,2,0.525,,gable_family,0.472,,masonry,0.865,,,Negligible to Slight,,none,0.575,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6634287021,-90.2495676425,4636 Saint Ferdinand Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.56,,gable_family,0.497,,masonry,0.655,,,Negligible to Slight,,none,0.51,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6749114928,-90.2343727268,,,7,19.0,t19,,2,0.524,,gable_family,0.404,,masonry,0.775,,,Moderate,,none,0.465,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -1570,7 +1554,6 @@ steer,38.6610334245,-90.2706457408,,,7,19.0,t19,,2,0.712,,gable_family,0.605,,ma
 steer,38.6652255603,-90.2450027318,4553 Maffitt Ave St. Louis MO 63113 US,,6,6.0,t6,,1,0.481,,gable_family,0.444,,masonry,0.82,,,Substantial to Heavy,,none,0.545,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6552227981,-90.2558661062,4727 Lewis Pl åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.748,,gable_family,0.69,,masonry,0.855,,,Negligible to Slight,,none,0.535,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6617176633,-90.2697411239,,,7,19.0,t19,,2,0.745,,gable_family,0.611,,masonry,0.925,,,Negligible to Slight,,none,0.445,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6731514021,-90.2402340621,,,7,19.0,t19,,2,0.55,,gable_family,0.458,,masonry,0.9,,,Negligible to Slight,,none,0.45,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6536698992,-90.260439643,,,7,19.0,t19,,2,0.684,,gable_family,0.427,,masonry,0.96,,,Negligible to Slight,,none,0.575,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.665296156,-90.2451671918,4557 Maffitt Ave St. Louis MO 63113 US,,6,6.0,t6,,1,0.495,,gable_family,0.467,,masonry,0.72,,,Very Heavy,,moderate,0.465,3.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6611802232,-90.2531849624,1533 Marcus Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.457,,gable_family,0.464,,masonry,0.678,,,Destruction,,moderate,0.505,4.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,3.0
@@ -1582,7 +1565,6 @@ steer,38.6620644489,-90.2509436357,1822 Dick Gregory Pl St. Louis MO 63113 US,,7
 steer,38.6664873787,-90.2451848867,4559 St Louis Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.453,,gable_family,0.359,,masonry,0.875,,,Moderate,,moderate,0.43,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6613848565,-90.2673920964,,,7,19.0,t19,,2,0.69,,gable_family,0.462,,masonry,0.955,,,Negligible to Slight,,none,0.59,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6671084245,-90.2466319153,4643 St Louis Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.602,,gable_family,0.514,,masonry,0.93,,,Negligible to Slight,,none,0.45,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.672094276,-90.2410865315,,,7,19.0,t19,,2,0.505,,gable_family,0.403,,masonry,0.805,,,Substantial to Heavy,,none,0.48,2.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6619847554,-90.2509558323,1820 Dick Gregory Pl St. Louis MO 63113 US,,7,19.0,t19,,2,0.725,,gable_family,0.452,,masonry,0.945,,,Negligible to Slight,,none,0.57,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6665431136,-90.2463597566,4626 St Louis Ave St. Louis MO 63115 US,,6,6.0,t6,,1,0.5,,gable_family,0.438,,masonry,0.68,,,Substantial to Heavy,,none,0.465,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6606734152,-90.2670664019,,,7,19.0,t19,,2,0.66,,gable_family,0.451,,masonry,0.945,,,Negligible to Slight,,none,0.545,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
@@ -1840,10 +1822,8 @@ steer,38.6574544267,-90.2543226845,4648 Page Blvd åœ£è·¯æ˜“æ–¯ MO 
 steer,38.6618904712,-90.264229927,,,7,19.0,t19,,2,0.596,,gable_family,0.492,,masonry,0.865,,,Negligible to Slight,,none,0.57,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6661233541,-90.2431807353,2921 N Taylor Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.565,,gable_family,0.546,,masonry,0.82,,,Moderate,,moderate,0.425,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6682689018,-90.2290444361,,,7,19.0,t19,,2,0.647,,gable_family,0.511,,masonry,0.94,,,Substantial to Heavy,,none,0.435,2.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6638030025,-90.2654449732,,,7,19.0,t19,,2,0.48,,gable_family,0.548,,masonry,0.8,,,Negligible to Slight,,none,0.655,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6571984359,-90.2506140043,,,7,19.0,t19,,2,0.63,,gable_family,0.469,,masonry,0.805,,,Substantial to Heavy,,none,0.39,2.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6647492397,-90.2435183571,2801 N Taylor Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.545,,gable_family,0.481,,masonry,0.778,,,Substantial to Heavy,,moderate,0.465,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
-steer,38.6612149662,-90.2622140362,,,14,19.0,t19,,2,0.523,,flat,0.285,,masonry,0.855,,,Negligible to Slight,,none,0.59,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.663860449,-90.2644703308,,,7,19.0,t19,,2,0.458,,gable_family,0.438,,masonry,0.795,,,Moderate,,moderate,0.46,1.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6662589778,-90.243140002,2925 N Taylor Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.56,,gable_family,0.508,,masonry,0.95,,,Moderate,,moderate,0.48,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6576108829,-90.254608615,4656 Page Blvd åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.687,,gable_family,0.536,,masonry,0.865,,,Negligible to Slight,,none,0.6,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -1889,7 +1869,6 @@ steer,38.6588637482,-90.2498059762,4557 Dr Martin Luther King Dr St. Louis MO 63
 steer,38.6675577529,-90.229753914,,,7,19.0,t19,,2,0.695,,gable_family,0.518,,masonry,0.91,,,Moderate,,moderate,0.395,1.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6607557689,-90.2628022818,,,7,19.0,t19,,2,0.539,,gable_family,0.447,,masonry,0.915,,,Negligible to Slight,,none,0.54,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6671323818,-90.2493531909,4717 Maffitt Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.41,,gable_family,0.319,,masonry,0.91,,,Moderate,,none,0.465,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6583108058,-90.2532232782,,,7,19.0,t19,,2,0.646,,gable_family,0.526,,masonry,0.95,,,Substantial to Heavy,,none,0.53,2.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6636389622,-90.2653149942,,,7,19.0,t19,,2,0.538,,gable_family,0.562,,masonry,0.79,,,Negligible to Slight,,none,0.53,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6611080545,-90.263029316,,,7,19.0,t19,,2,0.542,,gable_family,0.397,,masonry,0.89,,,Negligible to Slight,,none,0.515,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.667391991,-90.2293122246,,,7,19.0,t19,,2,0.668,,gable_family,0.518,,masonry,0.935,,,Negligible to Slight,,none,0.675,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
@@ -2065,7 +2044,6 @@ steer,38.6746203739,-90.2363583629,,,7,19.0,t19,,2,0.584,,gable_family,0.413,,ma
 steer,38.6572793567,-90.2525082116,,,7,19.0,t19,,2,0.65,,gable_family,0.523,,masonry,0.905,,,Moderate,,none,0.425,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6500347934,-90.2752335021,8 Kingsbury Pl åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.66,,gable_family,0.486,,masonry,0.946,,,Negligible to Slight,,none,0.455,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.661008426,-90.2703972303,,,7,19.0,t19,,2,0.77,,gable_family,0.566,,masonry,0.965,,,Negligible to Slight,,none,0.475,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6714834614,-90.2364138617,,,7,19.0,t19,,2,0.518,,gable_family,0.339,,masonry,0.925,,,Negligible to Slight,,none,0.465,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6577090126,-90.2535566462,,,7,19.0,t19,,2,0.599,,gable_family,0.425,,masonry,0.925,,,Substantial to Heavy,,moderate,0.515,2.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6616885465,-90.2696213518,,,7,19.0,t19,,2,0.785,,gable_family,0.555,,masonry,0.985,,,Negligible to Slight,,none,0.52,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6506378099,-90.2817598107,58 Kingsbury Pl åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.55,,gable_family,0.547,,masonry,0.89,,,Negligible to Slight,,none,0.45,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -2154,7 +2132,6 @@ steer,38.671547968,-90.239321106,,,7,19.0,t19,,2,0.569,,gable_family,0.403,,maso
 steer,38.674785046,-90.2362207433,,,7,19.0,t19,,2,0.6,,gable_family,0.531,,masonry,0.955,,,Negligible to Slight,,moderate,0.495,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6610963476,-90.2629323294,,,7,19.0,t19,,2,0.525,,gable_family,0.387,,masonry,0.89,,,Negligible to Slight,,none,0.63,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6589325704,-90.2488402177,1518 Deer St St. Louis MO 63113 US,,7,19.0,t19,,2,0.51,,gable_family,0.39,,masonry,0.95,,,Moderate,,moderate,0.415,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6716011481,-90.2356755277,,,7,19.0,t19,,2,0.523,,gable_family,0.348,,masonry,0.835,,,Moderate,,moderate,0.48,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6575944612,-90.2562663622,1214 Walton Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.469,,gable_family,0.45,,masonry,0.77,,,Substantial to Heavy,,moderate,0.455,2.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6740031306,-90.2291531888,,,7,19.0,t19,,2,0.523,,gable_family,0.318,,masonry,0.825,,,Moderate,,moderate,0.455,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.659386296,-90.2573531494,,,7,19.0,t19,,2,0.46,,gable_family,0.507,,masonry,0.815,,,Destruction,,moderate,0.4,4.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -2274,7 +2251,6 @@ steer,38.6696279952,-90.2289375663,,,7,19.0,t19,,2,0.697,,gable_family,0.534,,ma
 steer,38.6747640844,-90.2285235631,,,7,19.0,t19,,2,0.684,,gable_family,0.442,,masonry,0.985,,,Moderate,,none,0.43,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6567354942,-90.2512683269,,,7,19.0,t19,,2,0.64,,gable_family,0.451,,masonry,0.925,,,Moderate,,moderate,0.43,1.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6690268839,-90.2285721789,,,7,19.0,t19,,2,0.665,,gable_family,0.567,,masonry,0.9,,,Negligible to Slight,,none,0.58,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6734728967,-90.2387361868,,,7,19.0,t19,,2,0.57,,gable_family,0.535,,masonry,0.87,,,Negligible to Slight,,none,0.595,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6699064887,-90.2284121514,,,7,19.0,t19,,2,0.565,,gable_family,0.476,,masonry,0.945,,,Negligible to Slight,,none,0.585,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6568361899,-90.2515314388,,,7,19.0,t19,,2,0.57,,gable_family,0.468,,masonry,0.895,,,Negligible to Slight,,none,0.455,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6741923369,-90.2258391414,,,7,19.0,t19,,2,0.515,,gable_family,0.459,,masonry,0.835,,,Moderate,,moderate,0.48,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -2324,7 +2300,6 @@ steer,38.668741353,-90.2380615608,,,7,19.0,t19,,2,0.58,,gable_family,0.521,,maso
 steer,38.668521039,-90.2285369806,,,7,19.0,t19,,2,0.615,,gable_family,0.521,,masonry,0.885,,,Negligible to Slight,,none,0.67,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6521757862,-90.2767488766,17 Washington Terr åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.724,,gable_family,0.44,,masonry,0.96,,,Negligible to Slight,,none,0.525,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6710784002,-90.236584676,,,7,19.0,t19,,2,0.583,,gable_family,0.339,,masonry,0.95,,,Moderate,,none,0.44,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6698184291,-90.2303065171,,,7,19.0,t19,,2,0.543,,gable_family,0.474,,masonry,0.915,,,Negligible to Slight,,none,0.57,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6684630277,-90.2382715492,,,7,19.0,t19,,2,0.55,,gable_family,0.493,,masonry,0.87,,,Negligible to Slight,,moderate,0.495,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6689513744,-90.228345904,,,7,19.0,t19,,2,0.67,,gable_family,0.458,,masonry,0.9,,,Negligible to Slight,,none,0.71,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6708936463,-90.2362680424,,,7,19.0,t19,,2,0.64,,gable_family,0.353,,masonry,0.93,,,Substantial to Heavy,,moderate,0.465,2.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -2333,7 +2308,6 @@ steer,38.6685851035,-90.2381497095,,,7,19.0,t19,,2,0.563,,gable_family,0.399,,ma
 steer,38.6745215059,-90.22814565,,,7,19.0,t19,,2,0.63,,gable_family,0.495,,masonry,0.915,,,Negligible to Slight,,none,0.625,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6707767467,-90.2358288634,,,7,19.0,t19,,2,0.77,,gable_family,0.482,,masonry,0.985,,,Very Heavy,,none,0.45,3.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6679834115,-90.2382610906,,,7,19.0,t19,,2,0.615,,gable_family,0.476,,masonry,0.92,,,Negligible to Slight,,none,0.475,0.0,,Residential-Single Family,,,,,,,2.0
-steer,38.6703526307,-90.2368689855,,,7,19.0,t19,,2,0.476,,gable_family,0.309,,masonry,0.914,,,Negligible to Slight,,none,0.585,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6521431382,-90.2763935912,15 Washington Terr åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.678,,gable_family,0.382,,masonry,0.927,,,Negligible to Slight,,none,0.53,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6679781337,-90.2283905364,,,7,19.0,t19,,2,0.645,,gable_family,0.571,,masonry,0.895,,,Negligible to Slight,,none,0.67,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6680467108,-90.2383931551,,,7,19.0,t19,,2,0.606,,gable_family,0.475,,masonry,0.875,,,Negligible to Slight,,none,0.48,0.0,,Residential-Single Family,,,,,,,2.0
@@ -2348,7 +2322,6 @@ steer,38.6761290168,-90.2360529566,,,7,19.0,t19,,2,0.525,,gable_family,0.449,,ma
 steer,38.6687420506,-90.2290559042,,,7,19.0,t19,,2,0.568,,gable_family,0.384,,masonry,0.95,,,Negligible to Slight,,none,0.605,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6742850858,-90.2282893626,,,7,19.0,t19,,2,0.595,,gable_family,0.428,,masonry,0.895,,,Negligible to Slight,,none,0.595,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6677482924,-90.2291339627,,,7,19.0,t19,,2,0.673,,gable_family,0.512,,masonry,0.935,,,Negligible to Slight,,none,0.66,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6757805518,-90.2342839089,,,7,19.0,t19,,2,0.655,,gable_family,0.482,,masonry,0.96,,,Negligible to Slight,,none,0.6,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6719676383,-90.2286458985,,,7,19.0,t19,,2,0.515,,gable_family,0.469,,masonry,0.775,,,Very Heavy,,moderate,0.45,3.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6740570781,-90.228411875,,,7,19.0,t19,,2,0.607,,gable_family,0.463,,masonry,0.845,,,Moderate,,moderate,0.45,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6693254525,-90.2291768086,,,7,19.0,t19,,2,0.81,,gable_family,0.602,,masonry,0.97,,,Moderate,,none,0.59,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -2363,7 +2336,6 @@ steer,38.6509233544,-90.2772844789,19 Kingsbury Pl åœ£è·¯æ˜“æ–¯ MO
 steer,38.6699536891,-90.2266613056,,,7,19.0,t19,,2,0.665,,gable_family,0.343,,masonry,0.89,,,Negligible to Slight,,none,0.595,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.666875732,-90.2337062688,,,7,19.0,t19,,2,0.578,,gable_family,0.369,,masonry,0.965,,,Negligible to Slight,,none,0.385,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6688973906,-90.2294161221,,,7,19.0,t19,,2,0.575,,gable_family,0.541,,masonry,0.94,,,Negligible to Slight,,none,0.53,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6683891686,-90.2293465993,,,7,19.0,t19,,2,0.73,,gable_family,0.564,,masonry,0.975,,,Negligible to Slight,,none,0.615,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6742377389,-90.2353643181,,,7,19.0,t19,,2,0.509,,gable_family,0.435,,masonry,0.803,,,Destruction,,moderate,0.5,4.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6697615556,-90.226759451,,,7,19.0,t19,,2,0.673,,gable_family,0.495,,masonry,0.91,,,Negligible to Slight,,none,0.55,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6532751295,-90.2812045745,5554 Delmar Blvd åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.499,,gable_family,0.339,,masonry,0.912,,,Negligible to Slight,,none,0.525,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -2392,7 +2364,6 @@ steer,38.6718638765,-90.2372199197,,,7,19.0,t19,,2,0.754,,gable_family,0.561,,ma
 steer,38.6676601459,-90.2289098749,,,7,19.0,t19,,2,0.515,,gable_family,0.568,,masonry,0.875,,,Negligible to Slight,,none,0.625,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6735423648,-90.2278302014,,,7,19.0,t19,,2,0.67,,gable_family,0.58,,masonry,0.905,,,Negligible to Slight,,none,0.45,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6728422391,-90.2372313722,,,7,19.0,t19,,2,0.54,,gable_family,0.387,,masonry,0.949,,,Moderate,,moderate,0.405,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6686546139,-90.2311594118,,,7,19.0,t19,,2,0.475,,gable_family,0.492,,masonry,0.875,,,Negligible to Slight,,none,0.53,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6683531533,-90.2292521795,,,7,19.0,t19,,2,0.675,,gable_family,0.479,,masonry,0.975,,,Negligible to Slight,,none,0.64,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6686339139,-90.2275305824,,,7,19.0,t19,,2,0.74,,gable_family,0.489,,masonry,0.96,,,Negligible to Slight,,none,0.53,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6733309778,-90.2273840902,,,7,19.0,t19,,2,0.71,,gable_family,0.626,,masonry,0.91,,,Moderate,,moderate,0.47,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -2418,7 +2389,6 @@ steer,38.6687621052,-90.2279535355,,,7,19.0,t19,,2,0.645,,complex_family,0.386,,
 steer,38.6676044047,-90.2298722793,,,7,19.0,t19,,2,0.585,,gable_family,0.393,,masonry,0.9,,,Negligible to Slight,,none,0.47,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6728776895,-90.2268302843,,,7,19.0,t19,,2,0.513,,gable_family,0.533,,masonry,0.845,,,Moderate,,moderate,0.475,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.668205962,-90.2302241317,,,7,19.0,t19,,2,0.505,,gable_family,0.488,,masonry,0.84,,,Negligible to Slight,,none,0.6,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6727959184,-90.2385231408,,,7,19.0,t19,,2,0.603,,gable_family,0.454,,masonry,0.88,,,Substantial to Heavy,,moderate,0.43,2.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6689839456,-90.2296369826,,,7,19.0,t19,,2,0.608,,gable_family,0.5,,masonry,0.905,,,Moderate,,none,0.42,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6735233786,-90.2263381898,,,7,19.0,t19,,2,0.528,,gable_family,0.418,,masonry,0.86,,,Moderate,,moderate,0.415,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6681513781,-90.2300408962,,,7,19.0,t19,,2,0.465,,gable_family,0.473,,masonry,0.8,,,Negligible to Slight,,none,0.515,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -2447,13 +2417,11 @@ steer,38.6681506055,-90.2310986036,,,7,19.0,t19,,2,0.59,,gable_family,0.474,,mas
 steer,38.6479514477,-90.2751459366,5323 Pershing Ave åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.54,,gable_family,0.397,,masonry,0.945,,,Negligible to Slight,,none,0.55,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6683328748,-90.2304527055,,,7,19.0,t19,,2,0.48,,gable_family,0.448,,masonry,0.85,,,Negligible to Slight,,none,0.6,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.674840045,-90.2278336101,,,7,19.0,t19,,2,0.672,,gable_family,0.469,,masonry,0.955,,,Moderate,,moderate,0.505,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6682810057,-90.2314035845,,,7,19.0,t19,,2,0.505,,gable_family,0.468,,masonry,0.87,,,Moderate,,moderate,0.435,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6729667759,-90.2398874381,,,7,19.0,t19,,2,0.673,,gable_family,0.417,,masonry,0.915,,,Negligible to Slight,,none,0.485,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6687298813,-90.2301046506,,,7,19.0,t19,,2,0.513,,gable_family,0.507,,masonry,0.91,,,Negligible to Slight,,none,0.575,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.672628238,-90.2400850814,,,7,19.0,t19,,2,0.584,,gable_family,0.448,,masonry,0.925,,,Moderate,,moderate,0.435,1.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6487899024,-90.27692831,76 Waterman Pl åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.572,,gable_family,0.399,,masonry,0.91,,,Negligible to Slight,,none,0.57,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6674517948,-90.2294592467,,,7,19.0,t19,,2,0.616,,gable_family,0.409,,masonry,0.89,,,Substantial to Heavy,,moderate,0.45,2.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6500049669,-90.280920241,5575 Waterman Blvd St. Louis MO 63112 US,,7,19.0,t19,,2,0.605,,gable_family,0.444,,masonry,0.83,,,Negligible to Slight,,none,0.42,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6685113176,-90.2308966884,,,7,19.0,t19,,2,0.485,,gable_family,0.536,,masonry,0.885,,,Moderate,,none,0.6,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6498434545,-90.2886271853,5782 De Giverville Ave St. Louis MO 63112 US,,7,19.0,t19,,2,0.724,,gable_family,0.413,,masonry,0.97,,,Negligible to Slight,,none,0.545,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6668491369,-90.2289573059,,,7,19.0,t19,,2,0.54,,gable_family,0.424,,masonry,0.93,,,Moderate,,none,0.43,1.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
@@ -2465,12 +2433,10 @@ steer,38.6719527695,-90.2390373581,,,6,6.0,t6,,1,0.454,,gable_family,0.498,,maso
 steer,38.6494395767,-90.2830932813,5636 Waterman Blvd St. Louis MO 63112 US,,7,19.0,t19,,2,0.59,,gable_family,0.368,,masonry,0.955,,,Substantial to Heavy,,none,0.445,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6699035264,-90.2295762881,,,7,19.0,t19,,2,0.658,,gable_family,0.536,,masonry,0.865,,,Negligible to Slight,,none,0.47,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6677851703,-90.2303409101,,,7,19.0,t19,,2,0.465,,gable_family,0.474,,masonry,0.85,,,Negligible to Slight,,none,0.62,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6499615062,-90.2830064568,5635 Waterman Blvd St. Louis MO 63112 US,,7,19.0,t19,,2,0.522,,complex_family,0.391,,masonry,0.955,,,Moderate,,moderate,0.42,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6702403887,-90.2291559561,,,7,19.0,t19,,2,0.505,,gable_family,0.472,,masonry,0.88,,,Negligible to Slight,,none,0.44,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6493245835,-90.287946533,5764 De Giverville Ave St. Louis MO 63112 US,,7,19.0,t19,,2,0.675,,gable_family,0.579,,masonry,0.925,,,Negligible to Slight,,none,0.475,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6720241579,-90.238989684,,,7,19.0,t19,,2,0.525,,gable_family,0.462,,masonry,0.9,,,Negligible to Slight,,none,0.48,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6679951026,-90.230741864,,,7,19.0,t19,,2,0.539,,gable_family,0.527,,masonry,0.905,,,Negligible to Slight,,none,0.57,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6716578637,-90.2392151875,,,7,19.0,t19,,2,0.595,,gable_family,0.52,,masonry,0.915,,,Moderate,,moderate,0.48,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.649994179,-90.2887925362,5786 De Giverville Ave St. Louis MO 63112 US,,7,19.0,t19,,2,0.774,,gable_family,0.523,,masonry,0.965,,,Negligible to Slight,,none,0.515,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6729936574,-90.2278889239,,,7,19.0,t19,,2,0.673,,gable_family,0.521,,masonry,0.945,,,Moderate,,none,0.46,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.649233565,-90.2756308472,41 Waterman Pl åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.752,,gable_family,0.554,,masonry,0.93,,,Negligible to Slight,,none,0.545,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -2493,7 +2459,6 @@ steer,38.6488643536,-90.2778572468,94 Waterman Pl åœ£è·¯æ˜“æ–¯ MO 
 steer,38.649513243,-90.2882079613,5770 De Giverville Ave St. Louis MO 63112 US,,7,19.0,t19,,2,0.79,,gable_family,0.502,,masonry,0.98,,,Negligible to Slight,,moderate,0.46,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6485591749,-90.2747523396,14 Waterman Pl åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.548,,gable_family,0.472,,masonry,0.885,,,Negligible to Slight,,none,0.45,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6710386121,-90.2365042339,,,7,19.0,t19,,2,0.552,,gable_family,0.339,,masonry,0.93,,,Moderate,,moderate,0.455,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6482405772,-90.2773528665,5381 Pershing Ave åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.58,,gable_family,0.611,,masonry,0.905,,,Negligible to Slight,,none,0.49,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6728535868,-90.2249661225,,,7,19.0,t19,,2,0.495,,gable_family,0.407,,masonry,0.84,,,Moderate,,none,0.53,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.648781517,-90.2767120155,70 Waterman Pl åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.51,,gable_family,0.525,,masonry,0.91,,,Negligible to Slight,,none,0.555,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6710035567,-90.2364082224,,,7,19.0,t19,,2,0.559,,gable_family,0.329,,masonry,0.96,,,Moderate,,moderate,0.53,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -2552,7 +2517,6 @@ steer,38.6714639154,-90.2277888009,,,7,19.0,t19,,2,0.51,,gable_family,0.438,,mas
 steer,38.6764935725,-90.2297941519,,,7,19.0,t19,,2,0.601,,complex_family,0.371,,masonry,0.92,,,Moderate,,moderate,0.51,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6748868163,-90.2310223414,,,7,19.0,t19,,2,0.559,,gable_family,0.481,,masonry,0.985,,,Negligible to Slight,,none,0.535,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6499026472,-90.2742328801,2 Kingsbury Pl åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.612,,gable_family,0.399,,masonry,0.955,,,Negligible to Slight,,moderate,0.475,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6712436613,-90.2282946184,,,7,19.0,t19,,2,0.485,,gable_family,0.349,,masonry,0.86,,,Very Heavy,,moderate,0.42,3.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6732382554,-90.233077196,,,7,19.0,t19,,2,0.502,,gable_family,0.408,,masonry,0.865,,,Very Heavy,,moderate,0.485,3.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6501965028,-90.2770700233,18 Kingsbury Pl åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.674,,gable_family,0.425,,masonry,0.937,,,Negligible to Slight,,moderate,0.445,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6747832129,-90.2295136459,,,7,19.0,t19,,2,0.657,,gable_family,0.461,,masonry,0.88,,,Moderate,,none,0.575,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -2721,7 +2685,6 @@ steer,38.6514358523,-90.2753806428,10 Washington Terr åœ£è·¯æ˜“æ–¯
 steer,38.6680844076,-90.2286408842,4118 San Francisco Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.7,,gable_family,0.528,,masonry,0.935,,,Negligible to Slight,,none,0.5,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6496970633,-90.2858056042,5714 Waterman Blvd St. Louis MO 63112 US,,7,19.0,t19,,2,0.522,,gable_family,0.394,,masonry,0.92,,,Negligible to Slight,,none,0.525,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6681845428,-90.2288321167,,,7,19.0,t19,,2,0.6,,gable_family,0.478,,masonry,0.92,,,Negligible to Slight,,none,0.63,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6733656587,-90.2258885344,,,7,19.0,t19,,2,0.61,,gable_family,0.549,,masonry,0.825,,,Moderate,,none,0.54,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6520604148,-90.2650276219,5039 Delmar Blvd St. Louis MO 63108 US,,7,19.0,t19,,2,0.51,,gable_family,0.498,,masonry,0.793,,,Substantial to Heavy,,moderate,0.465,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6746156272,-90.2271588342,,,7,19.0,t19,,2,0.613,,gable_family,0.488,,masonry,0.87,,,Moderate,,none,0.415,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6687622577,-90.2302076963,,,7,19.0,t19,,2,0.58,,gable_family,0.521,,masonry,0.93,,,Negligible to Slight,,none,0.64,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -2874,7 +2837,6 @@ steer,38.6702425784,-90.2312732989,,,7,19.0,t19,,2,0.537,,gable_family,0.58,,mas
 steer,38.6489561808,-90.2789569861,5518 Waterman Blvd St. Louis MO 63112 US,,7,19.0,t19,,2,0.729,,gable_family,0.557,,masonry,0.955,,,Moderate,,moderate,0.43,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6738004518,-90.2307932886,,,7,19.0,t19,,2,0.669,,gable_family,0.597,,masonry,0.94,,,Substantial to Heavy,,none,0.46,2.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6749684489,-90.2294373739,,,7,19.0,t19,,2,0.63,,gable_family,0.502,,masonry,0.905,,,Negligible to Slight,,none,0.44,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6721654763,-90.2306003783,,,7,19.0,t19,,2,0.72,,gable_family,0.459,,masonry,0.99,,,Moderate,,none,0.53,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6705576367,-90.2310366085,,,7,19.0,t19,,2,0.567,,gable_family,0.595,,masonry,0.94,,,Negligible to Slight,,none,0.51,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6742359308,-90.2307170608,,,7,19.0,t19,,2,0.478,,gable_family,0.412,,masonry,0.835,,,Moderate,,moderate,0.545,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6498183612,-90.2868921297,5746 Waterman Blvd St. Louis MO 63112 US,,7,19.0,t19,,2,0.795,,gable_family,0.537,,masonry,0.965,,,Negligible to Slight,,none,0.545,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -2890,7 +2852,6 @@ steer,38.6702765389,-90.2313696848,,,7,19.0,t19,,2,0.51,,gable_family,0.483,,mas
 steer,38.6513043111,-90.2809695588,51 Kingsbury Pl åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.736,,gable_family,0.589,,masonry,0.964,,,Negligible to Slight,,none,0.455,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6726849289,-90.2300860313,,,7,19.0,t19,,2,0.578,,gable_family,0.412,,masonry,0.9,,,Moderate,,moderate,0.5,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6732165644,-90.2260335846,,,7,19.0,t19,,2,0.485,,gable_family,0.463,,masonry,0.795,,,Moderate,,moderate,0.57,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6491129896,-90.2698960369,5171 Waterman Blvd åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.569,,gable_family,0.354,,masonry,0.98,,,Negligible to Slight,,moderate,0.41,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6499238352,-90.2878831947,5782 Waterman Blvd St. Louis MO 63112 US,,7,19.0,t19,,2,0.525,,gable_family,0.445,,masonry,0.865,,,Negligible to Slight,,none,0.54,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6729058618,-90.2297148312,,,7,19.0,t19,,2,0.505,,gable_family,0.424,,masonry,0.845,,,Destruction,,moderate,0.47,4.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6724785989,-90.2257126843,,,6,6.0,t6,,1,0.51,,gable_family,0.513,,masonry,0.795,,,Negligible to Slight,,none,0.48,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -2979,7 +2940,6 @@ steer,38.6530723209,-90.2737768286,5305 Delmar Blvd åœ£è·¯æ˜“æ–¯ M
 steer,38.6742052399,-90.2283079251,,,7,19.0,t19,,2,0.678,,gable_family,0.479,,masonry,0.98,,,Moderate,,moderate,0.48,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6741379443,-90.2315704435,,,7,19.0,t19,,2,0.539,,gable_family,0.422,,masonry,0.78,,,Moderate,,moderate,0.465,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6701710126,-90.23341075,,,7,19.0,t19,,2,0.653,,gable_family,0.464,,masonry,0.91,,,Moderate,,none,0.43,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.655134267,-90.2732711043,867â€“913 Union Blvd åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.512,,gable_family,0.395,,masonry,0.945,,,Negligible to Slight,,moderate,0.455,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6520527757,-90.2753078112,9 Washington Terr åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.651,,gable_family,0.454,,masonry,0.92,,,Negligible to Slight,,none,0.64,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6501246947,-90.2686427733,5133 Westminster Pl åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.503,,gable_family,0.449,,masonry,0.92,,,Negligible to Slight,,none,0.56,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6720006802,-90.2311710845,,,7,19.0,t19,,2,0.497,,gable_family,0.466,,masonry,0.98,,,Negligible to Slight,,none,0.545,0.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -3163,7 +3123,6 @@ steer,38.669774714,-90.2315041005,,,7,19.0,t19,,2,0.535,,gable_family,0.592,,mas
 steer,38.6556492567,-90.2810219472,5560 Clemens Ave åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.73,,gable_family,0.492,,masonry,0.94,,,Destruction,,moderate,0.42,4.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6708730306,-90.2306165553,,,7,19.0,t19,,2,0.435,,gable_family,0.389,,masonry,0.825,,,Substantial to Heavy,,moderate,0.415,2.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.673307766,-90.2371132316,,,7,19.0,t19,,2,0.6,,gable_family,0.422,,masonry,0.875,,,Moderate,,none,0.48,1.0,,Residential-Single Family,,,,,,Correct one,2.0
-steer,38.6482164235,-90.2700304884,422 Lake Ave åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.657,,gable_family,0.388,,masonry,0.92,,,Negligible to Slight,,none,0.46,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6599984217,-90.271289917,5253 Maple Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.615,,gable_family,0.523,,masonry,0.92,,,Negligible to Slight,,none,0.55,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6732899944,-90.2372875465,,,7,19.0,t19,,2,0.568,,gable_family,0.502,,masonry,0.815,,,Negligible to Slight,,moderate,0.475,0.0,,Residential-Single Family,,,,,,Correct one,2.0
 steer,38.6725873554,-90.2309578329,,,7,19.0,t19,,2,0.513,,gable_family,0.517,,masonry,0.795,,,Very Heavy,,moderate,0.43,3.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -3210,7 +3169,6 @@ steer,38.6497460233,-90.2649944639,5027 Westminster Pl åœ£è·¯æ˜“æ–�
 steer,38.6595003402,-90.2703975915,5220 Maple Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.836,,gable_family,0.592,,masonry,0.964,,,Negligible to Slight,,none,0.545,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6582543384,-90.2675365693,5136 Vernon Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.75,,gable_family,0.516,,masonry,0.89,,,Negligible to Slight,,none,0.55,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6588053069,-90.2691641514,5189 Vernon Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.558,,gable_family,0.427,,masonry,0.91,,,Negligible to Slight,,none,0.655,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
-steer,38.6719623032,-90.2301290312,,,7,19.0,t19,,2,0.515,,gable_family,0.442,,masonry,0.79,,,Substantial to Heavy,,moderate,0.475,2.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.659493131,-90.270263995,5218 Maple Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.833,,gable_family,0.561,,masonry,0.88,,,Negligible to Slight,,none,0.585,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6694025592,-90.2338408124,,,7,19.0,t19,,2,0.549,,gable_family,0.477,,masonry,0.91,,,Substantial to Heavy,,moderate,0.43,2.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6587969117,-90.2690495086,5185 Vernon Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.606,,gable_family,0.428,,masonry,0.915,,,Negligible to Slight,,none,0.55,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
@@ -3342,7 +3300,6 @@ steer,38.659035062,-90.2712513274,5247 Vernon Ave St. Louis MO 63113 US,,7,19.0,
 steer,38.659663616,-90.2680748747,5161 Maple Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.677,,gable_family,0.596,,masonry,0.9,,,Negligible to Slight,,none,0.495,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6499460061,-90.2717183727,5244 Westminster Pl åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.737,,gable_family,0.539,,masonry,0.954,,,Negligible to Slight,,none,0.555,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6627388307,-90.2349715292,,,7,19.0,t19,,2,0.587,,gable_family,0.467,,masonry,0.97,,,Substantial to Heavy,,none,0.515,2.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
-steer,38.6731862337,-90.2369618099,,,7,19.0,t19,,2,0.64,,gable_family,0.469,,masonry,0.9,,,Negligible to Slight,,moderate,0.435,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6596332365,-90.2714579381,5254 Maple Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.645,,gable_family,0.463,,masonry,0.905,,,Negligible to Slight,,moderate,0.425,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6490841983,-90.2697110859,5165 Waterman Blvd åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.637,,gable_family,0.462,,masonry,0.915,,,Negligible to Slight,,moderate,0.41,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.650483954,-90.2717004425,5247 Westminster Pl åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.565,,gable_family,0.491,,masonry,0.885,,,Negligible to Slight,,none,0.445,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -3404,7 +3361,6 @@ steer,38.6580882069,-90.2709857908,5233 Raymond Ave St. Louis MO 63113 US,,7,19.
 steer,38.6553633741,-90.2674145025,5120 Cates Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.61,,gable_family,0.413,,masonry,0.868,,,Negligible to Slight,,none,0.5,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
 steer,38.6703169291,-90.2303909688,,,7,19.0,t19,,2,0.463,,gable_family,0.433,,masonry,0.875,,,Moderate,,none,0.56,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6702223622,-90.2335238273,,,7,19.0,t19,,2,0.657,,gable_family,0.542,,masonry,0.93,,,Moderate,,moderate,0.425,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6738196903,-90.2365157913,,,7,19.0,t19,,2,0.594,,gable_family,0.527,,masonry,0.945,,,Negligible to Slight,,moderate,0.435,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6479449859,-90.2717622877,41 Portland Pl åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.547,,gable_family,0.433,,masonry,0.94,,,Negligible to Slight,,none,0.61,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6700792028,-90.2332070559,,,7,19.0,t19,,2,0.52,,gable_family,0.459,,masonry,0.905,,,Moderate,,none,0.42,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6572207706,-90.2713108038,5239 Cabanne Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.591,,gable_family,0.517,,masonry,0.95,,,Negligible to Slight,,none,0.415,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
@@ -3427,7 +3383,6 @@ steer,38.658407111,-90.2689300795,5176 Vernon Ave St. Louis MO 63113 US,,7,19.0,
 steer,38.6580236198,-90.2702702337,5211 Raymond Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.685,,gable_family,0.531,,masonry,0.935,,,Negligible to Slight,,none,0.585,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6568665841,-90.2678791624,5141 Cabanne Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.612,,gable_family,0.491,,masonry,0.895,,,Negligible to Slight,,none,0.51,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6706089068,-90.2319955745,,,7,19.0,t19,,2,0.504,,gable_family,0.56,,masonry,0.83,,,Moderate,,moderate,0.415,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
-steer,38.6486029897,-90.271905968,5244 Waterman Blvd åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.658,,gable_family,0.497,,masonry,0.94,,,Moderate,,none,0.48,1.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6493877524,-90.265966969,5052 Westminster Pl åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.67,,gable_family,0.55,,masonry,0.94,,,Negligible to Slight,,none,0.545,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.65036817,-90.2705513099,5211 Westminster Pl åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.545,,gable_family,0.502,,masonry,0.915,,,Negligible to Slight,,none,0.665,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6490809627,-90.2644838159,5000 Westminster Pl åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.54,,complex_family,0.347,,masonry,0.918,,,Negligible to Slight,,moderate,0.415,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
@@ -3520,7 +3475,6 @@ steer,38.6587057903,-90.267990891,5153 Vernon Ave St. Louis MO 63113 US,,7,19.0,
 steer,38.6581764322,-90.2666519481,5112 Vernon Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.545,,gable_family,0.429,,masonry,0.935,,,Negligible to Slight,,none,0.625,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6504672466,-90.2659801689,5058 Washington Pl åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.745,,gable_family,0.59,,masonry,0.91,,,Negligible to Slight,,none,0.465,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6554079757,-90.2678693581,5132 Cates Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.68,,gable_family,0.541,,masonry,0.885,,,Negligible to Slight,,none,0.63,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6683874928,-90.2324274714,,,7,19.0,t19,,2,0.485,,gable_family,0.473,,masonry,0.91,,,Moderate,,none,0.515,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
 steer,38.6576420573,-90.2667203085,5111 Raymond Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.565,,gable_family,0.419,,masonry,0.954,,,Moderate,,moderate,0.545,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6581310145,-90.2662763442,5100 Vernon Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.584,,gable_family,0.402,,masonry,0.86,,,Negligible to Slight,,none,0.565,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6686059855,-90.2325719191,,,7,19.0,t19,,2,0.49,,gable_family,0.403,,masonry,0.795,,,Destruction,,moderate,0.44,4.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -3606,7 +3560,6 @@ steer,38.6627847458,-90.2350611734,,,7,19.0,t19,,2,0.578,,gable_family,0.453,,ma
 steer,38.6613382374,-90.2361165782,,,7,19.0,t19,,2,0.578,,gable_family,0.408,,masonry,0.965,,,Negligible to Slight,,none,0.58,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6496458128,-90.2686105225,5132 Westminster Pl åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.585,,gable_family,0.457,,masonry,0.905,,,Negligible to Slight,,none,0.525,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6576202857,-90.272057641,1118 Union Blvd St. Louis MO 63113 US,,7,19.0,t19,,2,0.465,,gable_family,0.443,,masonry,0.78,,,Very Heavy,,moderate,0.475,3.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,1.0
-steer,38.6733357772,-90.2353809853,,,7,19.0,t19,,2,0.501,,gable_family,0.363,,masonry,0.895,,,Negligible to Slight,,moderate,0.415,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6611394285,-90.2356498951,,,7,19.0,t19,,2,0.557,,gable_family,0.442,,masonry,0.88,,,Negligible to Slight,,moderate,0.47,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6560532326,-90.2699091608,5195 Cates Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.511,,gable_family,0.453,,masonry,0.875,,,Substantial to Heavy,,moderate,0.55,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6692579698,-90.2313048707,,,6,6.0,t6,,1,0.532,,gable_family,0.406,,masonry,0.86,,,Moderate,,none,0.475,1.0,,"Commercial,Residential-Single Family,School",,,,,,,2.0
@@ -3787,7 +3740,6 @@ steer,38.6512718777,-90.2692865085,5157 Washington Pl åœ£è·¯æ˜“æ–¯
 steer,38.6592407229,-90.2642104069,5049 Maple Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.675,,gable_family,0.463,,masonry,0.92,,,Negligible to Slight,,none,0.535,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6737823119,-90.2352231828,,,7,19.0,t19,,2,0.7,,gable_family,0.495,,masonry,0.9,,,Negligible to Slight,,moderate,0.47,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.656793069,-90.2672235985,5123 Cabanne Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.742,,gable_family,0.518,,masonry,0.905,,,Negligible to Slight,,none,0.535,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6737045355,-90.2351082948,,,7,19.0,t19,,2,0.556,,complex_family,0.33,,masonry,0.885,,,Negligible to Slight,,none,0.645,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6676438795,-90.2425052413,4515 Greer Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.542,,gable_family,0.372,,masonry,0.855,,,Moderate,,moderate,0.47,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6538218108,-90.2715484929,5229 Enright Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.65,,gable_family,0.486,,masonry,0.94,,,Substantial to Heavy,,moderate,0.415,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6567422478,-90.2668606161,5111 Cabanne Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.707,,gable_family,0.523,,masonry,0.875,,,Moderate,,none,0.505,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -3861,7 +3813,6 @@ steer,38.6506188804,-90.2729488665,5281 Westminster Pl åœ£è·¯æ˜“æ–�
 steer,38.6543170278,-90.2697674032,5184 Kensington Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.432,,gable_family,0.364,,masonry,0.77,,,Destruction,,moderate,0.485,4.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6566906012,-90.2700991985,5200 Cabanne Ave St. Louis MO 63113 US,,7,19.0,t19,,2,0.561,,gable_family,0.431,,masonry,0.925,,,Moderate,,none,0.425,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6558632348,-90.2684158095,5157 Cates Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.645,,gable_family,0.582,,masonry,0.935,,,Negligible to Slight,,moderate,0.435,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6592405739,-90.2411492776,,,7,19.0,t19,,2,0.46,,complex_family,0.378,,masonry,0.935,,,Negligible to Slight,,none,0.505,0.0,,"Commercial,Residential-Single Family,School",,,,,,,1.0
 steer,38.6554312569,-90.2680002454,5136 Cates Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.523,,gable_family,0.5,,masonry,0.815,,,Negligible to Slight,,none,0.55,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6559862904,-90.2693815711,5179 Cates Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.564,,gable_family,0.499,,masonry,0.848,,,Substantial to Heavy,,moderate,0.415,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6655243111,-90.2402431724,4419 Labadie Ave St. Louis MO 63115 US,,7,19.0,t19,,2,0.546,,gable_family,0.468,,masonry,0.735,,,Substantial to Heavy,,none,0.495,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
@@ -4000,7 +3951,6 @@ steer,38.6554497954,-90.2720836375,918 Union Blvd St. Louis MO 63108 US,,7,19.0,
 steer,38.6538061082,-90.2714452794,5227 Enright Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.61,,gable_family,0.452,,masonry,0.865,,,Moderate,,moderate,0.42,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6622809545,-90.2410859827,,,7,19.0,t19,,2,0.46,,gable_family,0.462,,masonry,0.68,,,Moderate,,moderate,0.47,1.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6575264699,-90.2656946132,5085 Raymond Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.646,,gable_family,0.472,,masonry,0.915,,,Negligible to Slight,,none,0.515,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.662983325,-90.2436362499,,,7,19.0,t19,,2,0.483,,gable_family,0.413,,masonry,0.875,,,Moderate,,moderate,0.485,1.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6538575728,-90.269324292,5169 Enright Ave St. Louis MO 63108 US,,6,6.0,t6,,1,0.455,,gable_family,0.394,,masonry,0.84,,,Negligible to Slight,,none,0.49,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6640813722,-90.2433386369,,,7,19.0,t19,,2,0.52,,gable_family,0.361,,masonry,0.765,,,Destruction,,moderate,0.525,4.0,,Residential-Single Family,,,,,,,3.0
 steer,38.6547161839,-90.2694475962,5175 Kensington Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.578,,gable_family,0.453,,masonry,0.88,,,Negligible to Slight,,moderate,0.46,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,3.0
@@ -4071,7 +4021,6 @@ steer,38.6543454412,-90.2699772322,5190 Kensington Ave St. Louis MO 63108 US,,7,
 steer,38.6542733102,-90.2693451803,5168 Kensington Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.55,,gable_family,0.409,,masonry,0.94,,,Substantial to Heavy,,moderate,0.49,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6625191628,-90.2399490166,,,7,19.0,t19,,2,0.588,,gable_family,0.541,,masonry,0.735,,,Moderate,,moderate,0.41,1.0,,Residential-Single Family,,,,,,,1.0
 steer,38.6539459201,-90.2706028081,811 Clarendon Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.53,,gable_family,0.582,,masonry,0.87,,,Destruction,,moderate,0.465,4.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6585070433,-90.2656063808,1212 Academy Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.545,,gable_family,0.468,,masonry,0.83,,,Substantial to Heavy,,none,0.495,2.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,1.0
 steer,38.6530022245,-90.2677917993,5120 Enright Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.66,,gable_family,0.479,,masonry,0.91,,,Moderate,,none,0.53,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6541894274,-90.2681863218,5136 Kensington Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.648,,gable_family,0.436,,masonry,0.84,,,Negligible to Slight,,none,0.57,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6582096247,-90.2630477705,5011 Vernon Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.627,,gable_family,0.392,,masonry,0.91,,,Destruction,,moderate,0.49,4.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -4084,7 +4033,6 @@ steer,38.6579882854,-90.2649859685,5066 Vernon Ave åœ£è·¯æ˜“æ–¯ MO
 steer,38.653017379,-90.2679261963,5124 Enright Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.733,,gable_family,0.553,,masonry,0.96,,,Destruction,,none,0.415,4.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6542704308,-90.2689916918,5158 Kensington Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.495,,gable_family,0.452,,masonry,0.9,,,Substantial to Heavy,,moderate,0.475,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6573974618,-90.2641266394,5039 Raymond Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.676,,gable_family,0.463,,masonry,0.935,,,Negligible to Slight,,none,0.495,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.655901974,-90.2631191696,1025 N Kingshighway Blvd åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.57,,gable_family,0.33,,masonry,0.925,,,Negligible to Slight,,none,0.66,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.657082858,-90.2649800541,5064 Raymond Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.679,,gable_family,0.51,,masonry,0.87,,,Negligible to Slight,,none,0.615,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6539981389,-90.2693103192,5166 Kensington Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.465,,gable_family,0.533,,masonry,0.805,,,Moderate,,none,0.455,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.657500366,-90.2653542649,5075 Raymond Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.608,,gable_family,0.408,,masonry,0.93,,,Negligible to Slight,,none,0.42,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -4092,7 +4040,6 @@ steer,38.6562909059,-90.2661109178,5090 Cabanne Ave åœ£è·¯æ˜“æ–¯ M
 steer,38.652443506,-90.2682433821,5127 Delmar Blvd St. Louis MO 63108 US,,7,19.0,t19,,2,0.515,,gable_family,0.407,,masonry,0.745,,,Negligible to Slight,,none,0.5,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6571990372,-90.266049248,5092 Raymond Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.56,,gable_family,0.461,,masonry,0.89,,,Moderate,,none,0.455,1.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6576846544,-90.2627732853,1157 N Kingshighway Blvd åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.428,,gable_family,0.363,,masonry,0.915,,,Negligible to Slight,,moderate,0.525,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6613486028,-90.2386148065,,,7,19.0,t19,,2,0.56,,gable_family,0.468,,masonry,0.823,,,Substantial to Heavy,,moderate,0.47,2.0,,Residential-Single Family,,,,,,,1.0
 steer,38.6562899413,-90.265965786,5088 Cabanne Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.665,,gable_family,0.518,,masonry,0.955,,,Negligible to Slight,,none,0.545,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6534143284,-90.2677643282,5121 Enright Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.608,,gable_family,0.502,,masonry,0.935,,,Moderate,,none,0.565,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6553319988,-90.2631621992,5003 Cates Ave åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.584,,gable_family,0.339,,masonry,0.92,,,Moderate,,none,0.39,1.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -4154,7 +4101,6 @@ steer,38.6555330382,-90.2652679461,5065 Cates Ave åœ£è·¯æ˜“æ–¯ MO 
 steer,38.6730124643,-90.2346977002,,,7,19.0,t19,,2,0.541,,gable_family,0.535,,masonry,0.773,,,Negligible to Slight,,moderate,0.52,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6566419613,-90.2657088612,5083 Cabanne Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.581,,gable_family,0.432,,masonry,0.9,,,Negligible to Slight,,moderate,0.515,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.656480353,-90.264254693,5041 Cabanne Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.728,,gable_family,0.574,,masonry,0.97,,,Negligible to Slight,,none,0.67,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.6629925565,-90.2384010914,,,7,19.0,t19,,2,0.525,,gable_family,0.473,,masonry,0.705,,,Negligible to Slight,,none,0.5,0.0,,Residential-Single Family,,,,,,,1.0
 steer,38.6730691654,-90.2348107141,,,7,19.0,t19,,2,0.571,,gable_family,0.482,,masonry,0.785,,,Negligible to Slight,,none,0.555,0.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6566405788,-90.2658099411,5083 Cabanne Ave åœ£è·¯æ˜“æ–¯ MO 63113 US,,7,19.0,t19,,2,0.555,,gable_family,0.477,,masonry,0.87,,,Negligible to Slight,,none,0.465,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6532956104,-90.270760569,5204 Enright Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.446,,gable_family,0.429,,masonry,0.875,,,Very Heavy,,moderate,0.495,3.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -4253,7 +4199,6 @@ steer,38.6553618097,-90.2824081832,5611 Enright Ave St. Louis MO 63112 US,,7,19.
 steer,38.6533097202,-90.2708654486,5206 Enright Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.543,,gable_family,0.367,,masonry,0.893,,,Moderate,,moderate,0.43,1.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6550392683,-90.2648756072,5050 Cates Ave åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.504,,gable_family,0.393,,masonry,0.84,,,Very Heavy,,moderate,0.455,3.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6543755428,-90.2658466992,5075 Kensington Ave åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.59,,gable_family,0.485,,masonry,0.863,,,Moderate,,moderate,0.4,1.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
-steer,38.654093949,-90.2766335205,5384â€“5404 Enright Ave St. Louis MO 63112 US,,7,19.0,t19,,2,0.622,,gable_family,0.481,,masonry,0.936,,,Negligible to Slight,,none,0.575,0.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6548662994,-90.2633372378,939 N Kingshighway Blvd åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.587,,gable_family,0.404,,masonry,0.93,,,Negligible to Slight,,moderate,0.485,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6548943802,-90.2634555833,5008 Cates Ave åœ£è·¯æ˜“æ–¯ MO 63108 US,,7,19.0,t19,,2,0.504,,gable_family,0.4,,masonry,0.94,,,Negligible to Slight,,moderate,0.475,0.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,,2.0
 steer,38.6533198254,-90.2709701993,5210 Enright Ave St. Louis MO 63108 US,,7,19.0,t19,,2,0.547,,gable_family,0.394,,masonry,0.905,,,Substantial to Heavy,,moderate,0.445,2.0,,"Residential-Multi-family,Residential-Single Family",,,,,,,2.0
@@ -4389,9 +4334,7 @@ steer,38.6541204817,-90.2627969758,,,7,19.0,t19,,2,0.476,,complex_family,0.305,,
 steer,38.6576958303,-90.2613510578,,,7,19.0,t19,,2,0.577,,gable_family,0.422,,masonry,0.844,,,Substantial to Heavy,,none,0.49,2.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6584444884,-90.2611762929,,,7,19.0,t19,,2,0.625,,gable_family,0.482,,masonry,0.923,,,Negligible to Slight,,none,0.515,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6594560734,-90.2597004531,,,7,19.0,t19,,2,0.455,,gable_family,0.36,,masonry,0.845,,,Moderate,,none,0.44,1.0,,Residential-Multi-family,,,,,,Yi Zhao,3.0
-steer,38.6552368631,-90.2617870773,,,7,19.0,t19,,2,0.705,,gable_family,0.438,,masonry,0.935,,,Substantial to Heavy,,severe,0.36,2.0,,Public Assembly,,,,,,Yi Zhao,2.0
 steer,38.6558905524,-90.2615440262,,,7,19.0,t19,,2,0.775,,gable_family,0.58,,masonry,0.88,,,Negligible to Slight,,none,0.59,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
-steer,38.6576254023,-90.2621811689,,,7,19.0,t19,,2,0.491,,gable_family,0.314,,masonry,0.925,,,Negligible to Slight,,moderate,0.485,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6574777752,-90.2612217548,,,7,19.0,t19,,2,0.6,,gable_family,0.485,,masonry,0.93,,,Negligible to Slight,,none,0.51,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6587476344,-90.260584714,,,7,19.0,t19,,2,0.475,,gable_family,0.476,,masonry,0.855,,,Negligible to Slight,,none,0.495,0.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
 steer,38.6559051449,-90.2618716902,,,7,19.0,t19,,2,0.625,,gable_family,0.434,,masonry,0.92,,,Moderate,,none,0.425,1.0,,Residential-Multi-family,,,,,,Yi Zhao,2.0
@@ -4454,7 +4397,6 @@ steer,38.6595154866,-90.260029589,4920 Page Blvd St. Louis MO 63113 US,,7,19.0,t
 steer,38.653351866,-90.2742875253,5322 Savoy Ct åœ£è·¯æ˜“æ–¯ MO 63112 US,,7,19.0,t19,,2,0.465,,gable_family,0.344,,masonry,0.92,,,Moderate,,moderate,0.435,1.0,,Residential-Single Family,,,,,,,2.0
 steer,38.6493155527,-90.2770473962,81 Waterman Pl St. Louis MO 63112 US,,7,19.0,t19,,2,0.59,,gable_family,0.376,,masonry,0.947,,,,,none,0.49,,,,,,,,,Wesam,2.0
 steer,38.6484988328,-90.2808567954,5555 Pershing Ave St. Louis MO 63112 US,,8,19.0,t19,,3,0.495,,complex_family,0.37,,masonry,0.99,,,Destruction,,none,0.53,4.0,,Residential-Multi-family,,,,,,Daniel Yahya,2.0
-steer,38.649265045,-90.2819074313,5600 Waterman Blvd St. Louis MO 63112 US,,7,19.0,t19,,2,0.645,,gable_family,0.384,,masonry,0.98,,,,,none,0.545,,,,,,,,,Wesam,2.0
 steer,38.6715266069,-90.2411183696,4548 Natural Bridge Ave åœ£è·¯æ˜“æ–¯ MO 63115 US,,7,19.0,t19,,2,0.505,,gable_family,0.349,,masonry,0.93,,,Moderate,,none,0.575,1.0,,"Commercial,Residential-Multi-family,Residential-Single Family",,,,,,Daniel Yahya,2.0
 steer,38.6492537254,-90.2830379992,323 Clara Ave St. Louis MO 63112 US,,7,19.0,t19,,2,0.582,,gable_family,0.344,,masonry,0.975,,,,,moderate,0.485,,,,,,,,,Wesam,2.0
 steer,38.6485472849,-90.2811452594,5559 Pershing Ave St. Louis MO 63112 US,,7,19.0,t19,,2,0.505,,complex_family,0.386,,masonry,0.97,,,Negligible to Slight,,none,0.455,0.0,,Residential-Multi-family,,,,,,David Roueche,2.0
